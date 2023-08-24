@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HandyTools>
+    <UnifyLineFeed>
+        <Code lang="C/C++">
+            LF
+        </Code>
+        <Code lang="CSharp">
+            LF
+        </Code>
+        <Code lang="Others">
+            LF
+        </Code>
+    </UnifyLineFeed>
+    <UnifyEncoding>
+        <Encoding>UTF8</Encoding>
+    </UnifyEncoding>
+</HandyTools>
